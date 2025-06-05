@@ -1,5 +1,5 @@
 # Travel-Planner-Requirements
 Requirement specification tracking for a travel planner app
 
-GitHub Wiki wasused for requirement specification
-and GitHub Issues was used to track requirements 
+1. GitHub Wiki was used for requirement specification
+2. GitHub Issues was used to track requirements 
